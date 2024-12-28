@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-font {
+    font-family: 'mulish'
+}
+
+.index-font {
+    font-size: 40px
+}
+
+.league {
+    font-family: 'League Spartan'
+}
+.blue-color{
+    background-color: #b3cadb
+}
