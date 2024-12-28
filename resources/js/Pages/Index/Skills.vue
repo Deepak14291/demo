@@ -15,7 +15,7 @@
   </div>
 
   <div class="mt-6 custom-font">
-    <ul class="list-image-[url(/build/assets/images/skills/circle.png)] grid grid-cols-12 gap-3 text-sm font-bold">
+    <ul class="list-image-[url('/build/assets/images/skills/circle.png')] grid grid-cols-12 gap-3 text-sm font-bold">
       <li class="ml-2 col-start-2 col-end-4 col-span-2">&nbsp;HTML & CSS</li>
       <li class="col-start-4 col-end-5 col-span-2">&nbsp;Laravel</li>
       <li class="col-start-6 col-end-7 col-span-1">&nbsp;PHP</li>
