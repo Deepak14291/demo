@@ -21,7 +21,7 @@
     <div class="col-start-2 col-end-11 col-span-9 drop-shadow-lg">
       <div class="flex flex-row gap-2 bg-gray-100">
         <div>
-          <img src="/public/build/assets/images/project_images/project_1/sample1.jpg" width="400" height="400" />
+          <img src="/assets/images/project_images/project_1/sample1.jpg" width="400" height="400" />
         </div>
         <div class="pl-4 flex flex-col justify-around">
           <p class="project-name font-bold">
