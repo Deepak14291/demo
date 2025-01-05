@@ -10,16 +10,16 @@
       Home
       </Link>
       <Link href="/about" class="col-start-5 col-end-6 col-span-1 content-center hover:bg-gray-200">
-      About me
+      About
       </Link>
       <Link href="/skills" class="col-start-6 col-end-7 col-span-1 content-center hover:bg-gray-200">
-      My skills
+      Skills
       </Link>
       <Link href="/myprojects" class="col-start-7 col-end-8 col-span-1 content-center hover:bg-gray-200">
-      My projects
+      Projects
       </Link>
       <Link href="/contactme" class="col-start-8 col-end-9 col-span-1 content-center hover:bg-gray-200">
-      Contact me
+      Contact
       </Link>
       <Link href="/login" class="col-start-9 col-end-10 col-span-1 content-center hover:bg-gray-200">
       Admin
