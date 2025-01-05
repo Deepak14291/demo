@@ -22,7 +22,7 @@
       Contact
       </Link>
       <Link href="/login" class="col-start-9 col-end-10 col-span-1 content-center hover:bg-gray-200">
-      Admin
+      Admin.
       </Link>
     </div>
   </div>
